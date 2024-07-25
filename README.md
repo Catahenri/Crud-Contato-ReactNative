@@ -1,6 +1,5 @@
-Desenvolvimento de uma Aplicação React Native com CRUD Completo realizado em uma Agenda de Contatos.
-
-## CRUD -- Create (Criar), Read (Ler), Update (Atualizar) e Delete (Apagar).
+## Desenvolvimento de uma Aplicação React Native com CRUD Completo realizado em uma Agenda de Contatos.
+CRUD -- Create (Criar), Read (Ler), Update (Atualizar) e Delete (Apagar).
 
 ## Funcionalidades Principais:
 
